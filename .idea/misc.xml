@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.18796296296296297" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/drawable/dark_mode_bg.xml" value="0.18333333333333332" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.26145833333333335" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/drawable/ic_baseline_location.xml" value="0.26145833333333335" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/drawable/ic_baseline_perm_media.xml" value="0.26145833333333335" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.26145833333333335" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.26145833333333335" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/layout/activity_main.xml" value="0.22685185185185186" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/layout/fragment_blank.xml" value="0.22685185185185186" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/layout/fragment_modal_bottom.xml" value="0.24114583333333334" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/layout/pop_up_item.xml" value="0.2101851851851852" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/layout/pop_up_window.xml" value="0.2101851851851852" />
+        <entry key="..\:/applications/BottomSheet2/app/src/main/res/layout/sheet_item.xml" value="0.22685185185185186" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
